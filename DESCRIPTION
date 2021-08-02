@@ -16,3 +16,5 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
 URL: https://github.com/cassiofb-dev/teste
 BugReports: https://github.com/cassiofb-dev/teste/issues
+Depends: 
+    R (>= 2.10)
